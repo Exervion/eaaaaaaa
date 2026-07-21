@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\plet\Huge_Glasses_Pack\BAK\Christina_Bell\Christina_Glasses_D"
+	"$bumpmap" "models\plet\Huge_Glasses_Pack\BAK\Christina_Bell\Christina_n"
+	"$nocull" 1
+	"$phong" "1"
+	$translucent 1
+	
+//	$alpha 0.15	
+	
+	"$phongboost" "1"
+	"$phongfresnelranges""[1 1 1]"
+	"$PhongTint" "[.5 .5 .5]"
+	"$halflambert" "1"
+
+	"$envmapsaturation" "0.5"
+	"$envmaptint" "0.5 0.5 0.5"
+	"$envmapcontrast" "9"
+	
+	$ambientocclusion 0
+	
+	"$envmap" "models\plet\shared\blueglint"
+	"$envmaptint" "[.3 .3 .3]"
+	//"$envmapfresnel"	".03"
+	
+}
