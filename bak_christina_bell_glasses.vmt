@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\plet\Huge_Glasses_Pack\BAK\Christina_Bell\Christina_Clothing_D"
+	"$bumpmap" "models\plet\Huge_Glasses_Pack\BAK\Christina_Bell\Christina_Clothing_N"
+
+	$halflambert 1
+
+	$phong 1
+	$phongboost 1
+	$phongexponent 6
+	$phongexponenttexture "models/plet/shared/green3"
+	$phongalbedotint 1
+	$phongFresnelRanges "[2.4 3 3.5]"
+	
+//	$color2 "[.9 .9 .9]"
+//	$blendtintbybasealpha "1"
+	"$normalmapalphaenvmapmask" 1
+//	$phongtint "[.76 1 .99]"
+
+	$ambientocclusion "1"
+	$nocull 1
+}
